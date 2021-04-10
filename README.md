@@ -1,4 +1,10 @@
-### Opass 👋
+### # Hi, I'm Marcos Arthur! :D 👋
+
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://marcosarthur.github.io/)](https://github.com/MarcosArthur/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-arthur-630a56159/)](https://www.linkedin.com/in/marcos-arthur-630a56159/)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCgTq9-ey20M7TJ-AcqRgDYg)](https://www.youtube.com/channel/UCgTq9-ey20M7TJ-AcqRgDYg)
+
 
 <!--
 **MarcosArthur/MarcosArthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
