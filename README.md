@@ -1,4 +1,4 @@
-### # Hi, I'm Marcos Arthur! :D 👋
+### Hi, I'm Marcos Arthur! :D 👋
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://marcosarthur.github.io/)](https://github.com/MarcosArthur/)
